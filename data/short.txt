@@ -1,0 +1,6 @@
+hello world
+kmp is fast
+abc abcabc abc
+test pattern here
+find me if you can
+PATTERN: abc

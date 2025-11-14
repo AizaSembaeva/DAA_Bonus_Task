@@ -1,0 +1,6 @@
+lorem ipsum dolor sit amet consectetur adipiscing elit
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+long text sequences often contain repeated structures abcabcabc
+we want to test kmp performance on large repetitive sequences
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+PATTERN: abcabc
