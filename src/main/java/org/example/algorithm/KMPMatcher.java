@@ -51,7 +51,7 @@ public class KMPMatcher {
 
             if (j == pattern.length()) {
                 result.add(i - j);
-                j = lps[j - 1]; // Continue searching
+                j = lps[j - 1];
             } else if (i < text.length() && text.charAt(i) != pattern.charAt(j)) {
                 if (j != 0) {
                     j = lps[j - 1];
