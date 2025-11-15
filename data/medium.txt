@@ -1,0 +1,6 @@
+the quick brown fox jumps over the lazy dog
+abababacabababcababc
+this is a medium length example for testing
+ababcababcababcxababcyababc
+patterns can overlap abababababa
+PATTERN: ababc
