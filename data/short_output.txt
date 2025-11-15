@@ -1,0 +1,6 @@
+=== KMP File Test ===
+File: data\short.txt
+Pattern: "abc"
+Text length: 75
+Matches: [24, 28, 31, 35]
+First index: 24
