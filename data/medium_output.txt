@@ -1,0 +1,6 @@
+=== KMP File Test ===
+File: data\medium.txt
+Pattern: "ababc"
+Text length: 169
+Matches: [54, 59, 109, 114, 119, 125, 131]
+First index: 54
